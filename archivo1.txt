@@ -2,3 +2,4 @@ Agregando la primera linea del archivo
 lorem insum est dolor
 esta linea es para el commit 3
 git es una herramienta de control de versiones
+Nos permite trabajar en conjunto y mantener un orden a los codigos de programación
