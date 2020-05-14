@@ -1,5 +1,5 @@
 Agregando la primera linea del archivo
-lorem insum est dolor
+Se hace uso de la herramienta ara favorecer el resultado final 
 esta linea es para el commit 3
 git es una herramienta de control de versiones
 Nos permite trabajar en conjunto y mantener un orden a los codigos de programación
